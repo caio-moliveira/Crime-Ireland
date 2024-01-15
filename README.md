@@ -385,4 +385,11 @@ for (region in regions) {
   }
 }
 ```
+![Western-region](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/a09f81e1-0838-433d-ae98-7427d3de1a1f)
+![Dublin-region](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/0cd2a956-2cb5-47ad-8df8-162a2e09dc4e)
+![Eastern-region](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/6f7017f8-1a17-41f0-9ba1-1ca9cbc54475)
+![Northern-region](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/88bfc9b4-2963-4bd7-b89a-0890daeed523)
+![South-Eastern-region](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/94d0280c-b8bd-44ea-bfd9-6cb17a199cc2)
+![Southern-region](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/30b41ea7-ccf3-484f-97d6-e494297acd10)
+
 
