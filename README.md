@@ -2,9 +2,9 @@
 Exploratory Data Analysis Project Focusing on Crime Statistics in Ireland
 
 ---
-title: "Crimes in Ireland"
-author: "Caio Machado"
-date: "2024-01-08"
+- title: "Crimes in Ireland"
+- author: "Caio Machado"
+- date: "2024-01-08"
 output:
   html_document: default
   word_document: default
