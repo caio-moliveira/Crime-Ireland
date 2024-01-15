@@ -210,7 +210,7 @@ Critical areas of concern are highlighted by the data from 2022 to 2023, especia
     - Increase: **53.38%** 
     - From **148 to 227 incidents**
 
-```{r, fig.width=10, fig.height=6, echo=FALSE}
+```{r, fig.width=10, fig.height=6}
 # Your first plot (Percentage Increase)
 plot1 <- ggplot(top_10_increases_2022_2023, aes(x = reorder(Offence, Percentage_Increase), y = Percentage_Increase)) +
   geom_bar(stat = "identity", aes(fill = Percentage_Increase > 50), width = 0.9) +
@@ -334,7 +334,7 @@ This regional analysis clearly indicates that certain types of crime have surged
 
 
 
-``` {r, fig.width=10, fig.height=6, echo=FALSE}
+``` {r, fig.width=10, fig.height=6}
 # Make sure the data is in the correct format
 regional_increases_percentage$Region <- as.factor(regional_increases_percentage$Region)
 
