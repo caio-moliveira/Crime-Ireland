@@ -247,6 +247,10 @@ plot2 <- ggplot(top_10_increases_2022_2023, aes(x = reorder(Offence, Total_Count
 grid.arrange(plot1, plot2, nrow = 2)
 ```
 
+![Rplot](https://github.com/caio-moliveira/Crime-Ireland/assets/150807759/0e6a6667-5d9f-494b-ab86-00f1b1782f22)
+
+
+
 ### Overall Analysis
 The data presents a varied landscape of crime in Ireland, with significant increases in certain types of offences, such as theft from individuals, vehicle-related theft, and blackmail or extortion. The modest increases in other areas, like shoplifting and burglary, indicate that these remain persistent issues, but they have not escalated dramatically in the analyzed period. The substantial rises in certain categories could indicate shifting patterns in criminal activities or increased reporting. It’s crucial for law enforcement and policymakers to focus on the areas with the highest increases to understand the underlying causes and implement effective prevention strategies.
 
