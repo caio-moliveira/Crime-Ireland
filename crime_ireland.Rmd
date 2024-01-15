@@ -136,6 +136,7 @@ Last check if there is any missing value in our dataset.
 
 ```{r}
 na_df <- sum(is.na(ireland_crime))
+head(ireland_crime)
 ```
 
 
@@ -378,4 +379,3 @@ for (region in regions) {
   }
 }
 ```
-
